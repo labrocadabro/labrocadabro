@@ -7,8 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
-- 📫 How to reach me [mailto:l@abrocadabro.com](l@abrocadabro.com)
+- 📫 How to reach me [l@abrocadabro.com](mailto:l@abrocadabro.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=labrocadabro](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=labrocadabro](https://git.io/streak-stats)]
 
 
