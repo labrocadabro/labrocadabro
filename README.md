@@ -12,6 +12,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=labrocadabro)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript       2 hrs 51 mins   ███████████████░░░░░░░░░░   59.77 %
+SCSS             57 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+Java             43 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
+Other            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+```
+
 <!--END_SECTION:waka-->
 
 
