@@ -23,7 +23,7 @@ Other            13 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
+![codewars bade][https://www.codewars.com/users/abrocadabro/badges/large]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
