@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laura Abro</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **a quiz appo**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Node + Express**
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
