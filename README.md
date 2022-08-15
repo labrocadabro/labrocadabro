@@ -9,8 +9,6 @@
 
 - 📫 How to reach me [l@abrocadabro.com](mailto:l@abrocadabro.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=labrocadabro)](https://git.io/streak-stats)
-
 <!--START_SECTION:waka-->
 
 ```text
