@@ -25,8 +25,7 @@ Other        47 mins         ▒░░░░░░░░░░░░░░░░
 ![codewars badge](https://www.codewars.com/users/abrocadabro/badges/large)
 
 ## My work:
-
-
+<a href="https://early-bird-cafe.netlify.app/" target="_blank"><img src="https://github.com/labrocadabro/labrocadabro/blob/main/early.bird-cafe.png?raw=true" alt="Preview of Early Bird Cafe" width="300"></a>
 
 ## Connect with me:
 <a href="https://twitter.com/labrocadabro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="labrocadabro" height="30" width="40" /></a>
