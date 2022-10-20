@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
-- 📫 How to reach me [l@abrocadabro.com](mailto:l@abrocadabro.com)
+- 📫 How to reach me [laura@abrocadabro.com](mailto:laura@abrocadabro.com)
 
 
 ## My work:
