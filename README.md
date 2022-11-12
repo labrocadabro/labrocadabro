@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a habit tracker**
 
-- 🌱 I’m currently learning **TDD**
+- 🌱 I’m currently learning **Java and OOP**
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
