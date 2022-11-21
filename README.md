@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Laura Abro</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 🔭 I’m currently working on **updates to [https://CommunityTaught.org](https://communitytaught.org))**
+- 🔭 I’m currently working on **updates to [https://CommunityTaught.org](https://communitytaught.org)**
 
 - 🌱 I’m currently learning **Object Oriented Design and Test Driven Development**
 
