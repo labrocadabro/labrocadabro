@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Laura Abro</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 🔭 I’m currently working on **a habit tracker**
+- 🔭 I’m currently working on **updates to [https://CommunityTaught.org](https://communitytaught.org))**
 
-- 🌱 I’m currently learning **Java and OOP**
+- 🌱 I’m currently learning **Object Oriented Design and Test Driven Development**
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
