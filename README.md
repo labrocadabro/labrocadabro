@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **updates to [https://CommunityTaught.org](https://communitytaught.org)**
 
-- 🌱 I’m currently learning **Object Oriented Design and Test Driven Development**
+- 🌱 I’m currently learning **Advanced React**
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
