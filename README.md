@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **updates to [https://CommunityTaught.org](https://communitytaught.org)**
 
-- 🌱 I’m currently learning **Advanced React**
+- 🌱 I’m currently learning **Svelte and SvelteKit**
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
