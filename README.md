@@ -24,8 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       3 hrs 50 mins   ██████████▒░░░░░░░░░░░░░░   41.87 %
-Other        1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+Svelte       4 hrs 39 mins   ██████████▓░░░░░░░░░░░░░░   42.41 %
+TypeScript   3 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   27.53 %
+Other        1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
 ```
 
 <!--END_SECTION:waka-->
