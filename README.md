@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Laura Abro</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 🔭 I’m currently working on **updates to [https://CommunityTaught.org](https://communitytaught.org)**
+- 🔭 I’m currently working on **SvelteKit authentication with Supabase*
 
-- 🌱 I’m currently learning **Svelte and SvelteKit**
+- 🌱 I’m currently learning **SvelteKit**
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
