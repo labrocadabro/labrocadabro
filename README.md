@@ -24,9 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   11 hrs 19 mins  ███████████▒░░░░░░░░░░░░░   45.27 %
-Svelte       7 hrs 23 mins   ███████▒░░░░░░░░░░░░░░░░░   29.54 %
-Other        1 hr 48 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+TypeScript   10 hrs 50 mins  ██████████▒░░░░░░░░░░░░░░   41.98 %
+Svelte       6 hrs 9 mins    ██████░░░░░░░░░░░░░░░░░░░   23.82 %
+CSS          3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
+Other        1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 ```
 
 <!--END_SECTION:waka-->
