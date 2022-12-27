@@ -13,9 +13,9 @@
 ## My work:
 <a href="https://early-bird-cafe.netlify.app/"><img src="https://github.com/labrocadabro/labrocadabro/blob/main/early.bird-cafe.png?raw=true" alt="Preview of Early Bird Cafe" width="32%" /></a>
 &nbsp;
-<a href="https://labrocadabro.github.io/dogs-v-cats/"><img src="https://abrocadabro.com/img/main/cats.jpg" alt="Preview of Dogs v Cats" width="32%" /></a>
+<a href="https://labrocadabro.github.io/dogs-v-cats/"><img src="https://abrocadabro.com/img/cats.jpg" alt="Preview of Dogs v Cats" width="32%" /></a>
 &nbsp;
-<a href="https://communitytaught.org/"><img src="https://abrocadabro.com/img/main/communitytaught.png" width="32%" alt="Preview of Community Taught" /></a>
+<a href="https://communitytaught.org/"><img src="https://abrocadabro.com/img/communitytaught.png" width="32%" alt="Preview of Community Taught" /></a>
 
 
 
