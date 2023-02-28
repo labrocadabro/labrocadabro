@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Laura Abro</h1>
 <h3 align="center">A full stack developer</h3>
 
-- 🔭 I’m currently working on **tests for CommunityTaught.org**
+- 🔭 I’m currently working on **a solitaire game**
 
-- 🌱 I’m currently learning **Racket**
+- 🌱 I’m currently learning **API architecture**
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
