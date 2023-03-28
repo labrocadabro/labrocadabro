@@ -24,12 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 25 mins   █████████░░░░░░░░░░░░░░░░   36.34 %
-Python       2 hrs 22 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
-Vue.js       2 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
-TypeScript   1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript   3 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.87 %
+Vue.js       2 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+Python       2 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
+JavaScript   1 hr 54 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
