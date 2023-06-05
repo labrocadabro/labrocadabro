@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an app to manage my knitting projects**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://abrocadabro.com/](https://abrocadabro.com/)
 
