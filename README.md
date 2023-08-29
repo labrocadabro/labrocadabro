@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       2 hrs 58 mins   ██████████████████████▓░░   90.45 %
+Ezhil        11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
