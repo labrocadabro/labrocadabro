@@ -11,12 +11,17 @@
 
 
 ## My work:
-<a href="https://early-bird-cafe.netlify.app/"><img src="https://github.com/labrocadabro/labrocadabro/blob/main/early.bird-cafe.png?raw=true" alt="Preview of Early Bird Cafe" width="32%" /></a>
-&nbsp;
-<a href="https://labrocadabro.github.io/dogs-v-cats/"><img src="https://abrocadabro.com/img/cats.jpg" alt="Preview of Dogs v Cats" width="32%" /></a>
+<a href="https://aitravel-test.vercel.app/"><img src="https://abrocadabro.com/img/ai-travel.png" alt="Preview of AI Travel" width="32%" /></a>
 &nbsp;
 <a href="https://communitytaught.org/"><img src="https://abrocadabro.com/img/communitytaught.png" width="32%" alt="Preview of Community Taught" /></a>
-
+&nbsp;
+<a href="https://amalagameal.netlify.app/"><img src="https://abrocadabro.com/img/amalgameal.png" width="32%" alt="Preview of Amalgameal" /></a>
+&nbsp;
+<a href="https://saira-sanderson.netlify.app/"><img src="https://abrocadabro.com/img/saira-sanderson.png" alt="Preview of Early Bird Cafe" width="32%" /></a>
+&nbsp;
+<a href="https://zippy-electrical.netlify.app/"><img src="https://abrocadabro.com/img/zippy.png" alt="Preview of Early Bird Cafe" width="32%" /></a>
+&nbsp;
+<a href="https://early-bird-cafe.netlify.app/"><img src="https://abrocadabro.com/img/early-bird.png" alt="Preview of Early Bird Cafe" width="32%" /></a>
 
 
 ## Wakatime
