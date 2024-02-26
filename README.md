@@ -45,7 +45,7 @@ TypeScript   2 hrs 41 mins   ██▒░░░░░░░░░░░░░░
 ## Connect with me:
 <a href="https://twitter.com/labrocadabro" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="labrocadabro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abrocadabro" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrocadabro" height="30" width="40" /></a>
-<a href="https://hashnode.com/@abrocadabro" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@abrocadabro" height="30" width="40" /></a>
+<a href="https://hashnode.com/@abrocadabro" target="_blank"><img align="center" src="https://github.com/labrocadabro/labrocadabro/assets/5794319/d3644cc6-ad14-4c20-aa11-446c54ccf1ac" alt="@abrocadabro" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/abrocadabro" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abrocadabro" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abrocadabro" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abrocadabro" height="30" width="40" /></a>
 
@@ -70,6 +70,7 @@ TypeScript   2 hrs 41 mins   ██▒░░░░░░░░░░░░░░
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" title="Express" width="40" height="40"/></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" width="40" height="40"/></span>
  
+
 ### Tools:
 <span><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/></span>
 <span><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/></span>
