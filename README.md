@@ -29,9 +29,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Dart               2 hrs 46 mins   ██████████████▓░░░░░░░░░░   58.13 %
-Other              1 hr 59 mins    ██████████▒░░░░░░░░░░░░░░   41.80 %
-Jupyter Notebook   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other              3 hrs 44 mins   █████████████▒░░░░░░░░░░░   53.74 %
+Dart               3 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.16 %
+JavaScript         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Jupyter Notebook   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
