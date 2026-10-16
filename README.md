@@ -29,8 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   11 mins               ███████████████▒░░░░░░░░░   61.05 %
-TypeScript   7 mins                █████████▓░░░░░░░░░░░░░░░   38.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
